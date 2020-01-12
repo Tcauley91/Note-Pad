@@ -3,8 +3,6 @@
 // We need to include the path package to get the correct file path for our html
 // ===============================================================================
 const path = require("path");
-// app.use(express.static('public'))
-// const dir = path.join(__dirname, "public");
 
 // ===============================================================================
 // ROUTING
