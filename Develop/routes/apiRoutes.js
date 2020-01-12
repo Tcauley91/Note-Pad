@@ -4,7 +4,7 @@
 // These data sources hold arrays of information on table-data, waitinglist, etc.
 // ===============================================================================
 
-var notes = require("../db/db.json");
+const notes = require("../db/db.json");
 
 
 
