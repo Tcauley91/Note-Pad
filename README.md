@@ -7,7 +7,7 @@ This is a Node application, on the landing page simply click "Get Started" and i
 
 
 
-View my deployed site here:
+View my deployed application here:
 
 <a href="https://tc-note-taker.herokuapp.com/">Heroku Note Taker</a>
  
